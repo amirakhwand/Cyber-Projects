@@ -2,8 +2,8 @@ Welcome to my Cyber Projects Repository!
 
 This repository is a collection of my personal cybersecurity projects, experiments, and explorations. I'm passionate about all things cyber and love to tinker with new tools and techniques. Here you'll find a variety of projects, including:
 
-[Ransomware]: [This along with it's decryption file is a python ransomware script that can be run on a linux system.]
-[Keylogger]: [This is a keylogger script that can be run on a system and the attacker can monitor keystrokes that are done by the victim]
+[Ransomware]: This along with it's decryption file is a python ransomware script that can be run on a linux system.
+[Keylogger]: This is a keylogger script that can be run on a system and the attacker can monitor keystrokes that are done by the victim.
 
 Disclaimer:
 
@@ -15,4 +15,4 @@ I'm always open to feedback and contributions. If you find any errors or have su
 
 Connect with me:
 
-[https://www.linkedin.com/in/amirakhwand/]
+https://www.linkedin.com/in/amirakhwand/
